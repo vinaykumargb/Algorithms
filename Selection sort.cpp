@@ -1,6 +1,6 @@
 #include <iostream> // std::cout
 #include <algorithm> // std::swap, std::genarate
-#include <chrono> // std::chrono, std::chrno::high_resolution_clock::now!() 
+#include <chrono> // std::chrono, std::chrno::high_resolution_clock::now() 
 #include <ctime> // time()
 #include <cstdlib> // std::srand(), std::rand()
 using namespace std;
